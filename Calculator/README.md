@@ -178,8 +178,15 @@ protected void onCreate(Bundle savedInstanceState) {
 
 ## OUTPUT
 
+![mad1](https://github.com/viswapriyaG/Mobile-Application-Development/assets/131427787/ad217b43-d460-401a-b72f-f99988730dd4)
 
+![mad2](https://github.com/viswapriyaG/Mobile-Application-Development/assets/131427787/65f271f1-0bc3-41e3-9b27-86c1a5716cf5)
 
+![image](https://github.com/viswapriyaG/Mobile-Application-Development/assets/131427787/1706f592-dcc1-4218-8fd8-6aff40184295)
+
+![image](https://github.com/viswapriyaG/Mobile-Application-Development/assets/131427787/9e9e5681-de16-4d0a-98ef-e9df9b6d5e92)
+
+![image](https://github.com/viswapriyaG/Mobile-Application-Development/assets/131427787/099e22aa-2f22-4228-8d81-cfd20dd494c0)
 
 
 ## RESULT
