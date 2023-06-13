@@ -121,6 +121,9 @@ public void btnGetContactPressed(View view) {
 
 ## OUTPUT
 
+![image](https://github.com/viswapriyaG/Mobile-Application-Development/assets/131427787/3d4c8c93-cdd4-48db-bd5e-1f0a8d87b754)
+![image](https://github.com/viswapriyaG/Mobile-Application-Development/assets/131427787/3ad52467-80db-45bd-9eab-72a8a455fafa)
+![image](https://github.com/viswapriyaG/Mobile-Application-Development/assets/131427787/a51eee0f-acce-4522-a6bf-3f3034d6ccbc)
 
 
 
