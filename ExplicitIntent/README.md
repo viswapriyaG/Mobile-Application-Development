@@ -128,8 +128,10 @@ protected void onCreate(Bundle savedInstanceState) {
     });
 }
 }
-MainActivity.java 2 File:
+```
 
+MainActivity.java 2 File:
+```
 package com.example.factorialexplicit;
 
 import static com.example.factorialexplicit.R.id.factorialTextView;
@@ -167,6 +169,12 @@ private long calculateFactorial(int number) {
 }
 }
 ```
+
+## OUTPUT:
+
+![image](https://github.com/viswapriyaG/Mobile-Application-Development/assets/131427787/d2db4648-be02-44c1-a813-cfeab70a81e9)
+![image](https://github.com/viswapriyaG/Mobile-Application-Development/assets/131427787/d11ea53e-493d-4082-9137-82deb1f8f48d)
+![image](https://github.com/viswapriyaG/Mobile-Application-Development/assets/131427787/9d54cb74-4465-4cf3-8292-7b1c00af1802)
 
 ## RESULT
 Thus a Simple Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
