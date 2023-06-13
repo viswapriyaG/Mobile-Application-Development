@@ -226,6 +226,7 @@ public View getView(int position, View view, ViewGroup parent) {
 ## OUTPUT
 
 ![image](https://github.com/viswapriyaG/Mobile-Application-Development/assets/131427787/25aaa831-3494-451e-b9de-5965895a2da5)
+
 ![image](https://github.com/viswapriyaG/Mobile-Application-Development/assets/131427787/e8df4f00-c355-402b-abf8-e1fec244ecab)
 
 
